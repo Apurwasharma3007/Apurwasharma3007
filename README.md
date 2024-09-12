@@ -79,6 +79,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Apurwasharma3007/Apurwasharma3007/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Apurwasharma3007/output/snake.svg" alt="Snake animation" />
 
 ###
